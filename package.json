@@ -1,0 +1,25 @@
+{
+  "name": "alexa-vr-lambda",
+  "version": "0.0.1",
+  "description": "Alexa app for alexa-vr",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-app": "^2.3.4",
+    "request": "^2.78.0",
+    "request-promise": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattsplats/alexa-vr-lambda"
+  },
+  "author": "Matt Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattsplats/alexa-vr-lambdaissues"
+  },
+  "homepage": "https://github.com/mattsplats/alexa-vr-lambda#readme"
+}
