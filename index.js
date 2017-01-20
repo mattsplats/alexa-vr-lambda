@@ -16,7 +16,7 @@ const Alexa = require('alexa-app'),
 // On invocation
 app.launch(function (req, res) {
   const options = {
-    uri: 'https://alexa-vr.herokuapp.com/test',
+    uri: 'https://vr-alexa.herokuapp.com/socket',
     json: true
   };
 
